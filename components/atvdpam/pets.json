@@ -1,0 +1,7 @@
+[
+  {"id":"1","name":"Amora","breed":"SRD","age":2,"type":"cat"},
+  {"id":"2","name":"Thor","breed":"Vira-lata","age":3,"type":"dog"},
+  {"id":"3","name":"Luna","breed":"Golden Retriever","age":1,"type":"dog"},
+  {"id":"4","name":"Mimi","breed":"Persa","age":4,"type":"cat"},
+  {"id":"5","name":"Bolt","breed":"Poodle","age":2,"type":"dog"}
+]
